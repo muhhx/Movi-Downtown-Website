@@ -2,7 +2,7 @@ import arrowImage from '../../assets/arrow.png'
 import backgroundVideo from '../../assets/background_video.mp4'
 
 export const presentationData = {
-    title: 'Conheça Movi Sky',
+    title: 'Conheça Movi Downtown',
     subtitle: 'Feito para o futuro, feito para você',
     arrowImage,
     arrowAlt: 'Arrow pointing down',
