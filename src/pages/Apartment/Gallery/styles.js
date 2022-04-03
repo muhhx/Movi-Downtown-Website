@@ -11,12 +11,12 @@ export const Container = styled.div`
 
 export const Image = styled.img`
     position: absolute;
-    min-height: 100%;
+    height: 130%;
 `;
 
 export const Image2 = styled.img`
     position: absolute;
-    height: 100%;
+    height: 120%;
 `;
 
 export const ImageWrapper1 = styled.div`
