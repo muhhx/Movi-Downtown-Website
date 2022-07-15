@@ -32,7 +32,7 @@ Landing page for apartments of a Brazilian real state company.
 $ git clone https://github.com/muhhx/Movi-Downtown-Website
 
 //CD into the created folder
-$ cd movi-downtown
+$ cd movi-downtown-website
 
 //Initialize the app to run locally
 $ npm run dev
